@@ -1,0 +1,7 @@
+Dear ${PERSON_NAME},
+
+Am written to inform you that..
+Have a great day!
+
+Yours Truly,
+Lorem sample.

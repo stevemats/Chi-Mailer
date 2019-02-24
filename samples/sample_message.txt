@@ -1,0 +1,13 @@
+Dear ${PERSON_NAME},
+
+Am written to inform you that..
+The ${Person_Name} is a python templating method,
+to enable us call the username from all the emails in contact.txt,
+one after the other by there username. You can imagine typing the username
+one after another for all the email recipient how tedious it would be.
+Hence the reason to use the method.
+
+Have a great day!
+
+Yours Truly,
+Lorem sample.
