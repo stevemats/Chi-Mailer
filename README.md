@@ -2,18 +2,16 @@
 
 ### USAGE:
 
-Chi_Mailer is a  python script to for mass mailing. With it you can forget the
-hastle of having to mail messages an email after an email. You can just write 
-your message one and the email we'll automate the rest at your comfort.
+Chi_Mailer is a  python script essential for mass mailing. With it you can forget the
+hustle of having to mail messages an email after another when you have a large list. 
+You can just write your message one and the email we'll automate the rest at your comfort.
 All you have to do is geek with chi_mailer, take a cup of coffee all whatever you
 use, and the rest we'll be done for you.
 
 # New Features!
  - Ability to send bulk/mass emails
- - Abilty to input your server's credential at script startup so that you don't 
-  have to stress yourself with script alteration.
- - Ability to hide your server credential at input to avoid bad spectator eyes from
-  seeing your password.
+ - Input your server's credential at script startup so that you don't have to stress yourself with script alteration.
+ - Hides Server passwords at input.
  - Ability to use the script with or with no python knowledge.
  
 # Installation
@@ -26,7 +24,8 @@ extracting chi_mailer, open the chi_mailer folder and right-click to open the
 terminal, that way you'll be in the projects root folder and type python Qi.py)
 ```
 Method 2:
-Change directory using the 'cd' command to enter into the project's folder
+$ git clone https://github.com/stevemats/chi_mailer.git
+   Now Change directory using the 'cd' command to enter into the project's folder
 $ cd chi_mailer         (To enter into the project's directory)
 $ ls                    (To view the content in the directory)
 $ python3 Qi.py
@@ -38,9 +37,9 @@ After extracting the chi_mailer download, double click to enter to the project's
 root folder, and hold shift and right click to open powershell or cmd(command prompt)
 ```
 Method 2:
-Via startbar type or navigate to command prompt and run as an adminstrator
-Now inside the command prompt lets navigate to the project's folder
-
+Open your command prompt via startbar and type the following:
+>git clone git clone https://github.com/stevemats/chi_mailer.git
+   Now Change directory using the 'cd' command to enter into the project's folder
 > cd downloads
 > ls                    (To view the content in the directory)
 > cd chi_mailer         (Change directory to ch_mailer folder)
@@ -58,12 +57,12 @@ The project is open for contribution.
 
  - Convert all user input mails to lowercase. (Humans are prone to errors/typos)
  - Time interval to enable code to send mails and repeat again after a certain time
- - Code Compatibility to enable all users use the script.
+ - Code Compatibility to enable all users(both py2 and py3 users) to use the script.
 
 License
 ----
 
-MIT
+[MIT license](https://opensource.org/licenses/MIT)
 
 NB:---> The server mail needs to be given privilege for your script to act as a stand alone,
         visit( https://myaccount.google.com/security ) and enable less secure apps to give your
