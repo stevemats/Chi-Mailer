@@ -15,7 +15,7 @@ use, and the rest we'll be done for you.
  - Ability to use the script with or with no python knowledge.
  
 # Installation
-chi_mailer at the moments requires [python3+](https://python.org/) at the moment
+chi_mailer requires [python3+](https://python.org/) at the moment
 
 ##### linux users:
 
