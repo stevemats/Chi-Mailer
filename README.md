@@ -56,6 +56,8 @@ The project is open for contribution.
 ### Todos
 
  - Convert all user input mails to lowercase. (Humans are prone to errors/typos)
+ - Set all mails as high priority
+ - Support most of the servers 
  - Time interval to enable code to send mails and repeat again after a certain time
  - Code Compatibility to enable all users(both py2 and py3 users) to use the script.
 
