@@ -1,4 +1,4 @@
-#  [Chi_Mailer](https://github.com/stevemats/chi_mailer)
+#  [Betox Mail](https://github.com/stevemats/Betox-Mail)
 
 ### USAGE:
 
