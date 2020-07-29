@@ -1,4 +1,4 @@
-#  [༄βєţ𝕠𝔁 ϻά𝔦𝔨༭](https://github.com/stevemats/Betox-Mail)
+#  [ℭ𝔥𝔦-𝔐𝔞𝔦𝔩𝔢𝔯](https://github.com/stevemats/Betox-Mail)
 
 ### USAGE:
 
